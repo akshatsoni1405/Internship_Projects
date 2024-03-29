@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Form</title>
+        <link rel="stylesheet" href="form.css">
+
+    </head>
+    <body>
+        <h1>Registration Form</h1>
+        <form>
+            <div class="name">
+                <input class="name" type="text" placeholder="Enter your Name">
+            </div>
+        <div class="number">
+            <input class="number" type="number" placeholder="Enter your Number" required>
+        </div>
+            <div class="email">
+                <input class="email" type="email" placeholder="Enter your E-mail">
+            </div>
+            <div class="add">
+                <input class="add" type="text" placeholder="Enter your Address">
+            </div>
+            
+        </form>
+     </body>
+</html>
