@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+.name{
+    width: 75%;
+    margin-bottom: 1%;
+    padding-bottom: 2%;
+}
+.number{
+    width: 75%;
+    margin-bottom: 1%;
+    padding-bottom: 2%;
+}
+.email{
+    width: 75%;
+    margin-bottom: 1%;
+    padding-bottom: 2%;
+}
+.add{
+    width: 75%;
+    margin-bottom: 1%;
+    padding-bottom: 2%;
+}
+body{
+    background-image: url(bg.jpg);
+}
+form{
+    text-align: -webkit-center;
+}
