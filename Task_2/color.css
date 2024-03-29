@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.xyz{
+	margin: 0 -10px;
+}
+.col{
+	width: 100%;
+	height: 240px;
+}
+.black{
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+.col-25{
+	width: 25%;
+	height: 240px;
+	margin-top: 5px;
+	float: left;
+	padding: 0 10px;
+}
+.red{
+	background-color: red;
+	width: 100%;
+	height:100%;
+
+}
+.col-50{
+	width: 50%;
+	height: 240px;
+	float: left;
+	margin-top: 5px;
+	padding:  0 10px;
+}
+
+
+.clearfix::after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.col-75{
+	width: 75%;
+	height: 240px;
+	float: left;
+	margin-top: 5px;
+	padding: 0 10px;
+}
